@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashuu53
-- 👀 I’m interested in learning ios
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in learning DevOps, GitOps
+- 🌱 I’m currently woeking in DevOps
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ashuu53@gmail.com
 
